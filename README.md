@@ -20,5 +20,8 @@ Os professores Jacqueline Oliveira e Paulo Silveira, me fizeram ter a certeza de
 
 
 
-Como projeto final do curso, desenvolvi um sistema de conta bancaria em Java, fora os inúmeros exercícios para fixar o conhecimento.  
+Como projeto final do curso, desenvolvi um sistema de conta bancaria em Java, fora os inúmeros exercícios para fixar o conhecimento. 
+
+
+![Captura de tela de 2024-02-16 12-46-25](https://github.com/GaahZanelato/AluraJava/assets/100693477/62ba392f-148c-4447-9f99-82d555a34c0f)
 
